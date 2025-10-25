@@ -1,6 +1,4 @@
-![Matrix Rainbow Code Banner](https://gifdb.com/images/high/matrix-code-art-rainbow-coder-dxsrz36r26xr4wki.webp)
-
-# 👋 Hi, I'm Leeanne!
+# 👋 Heylo, I'm Leeanne!
 
 I'm a **Software Engineer** who loves building clean, responsive, and user-friendly web applications.  
 I specialize in **Full-Stack JavaScript Development** — working with the **MERN stack (MongoDB, Express, React, Node.js)** — and enjoy combining creativity with functionality in every project I build.
@@ -33,6 +31,7 @@ I specialize in **Full-Stack JavaScript Development** — working with the **MER
 
 ## 🎨 Fun Fact
 When I’m not coding, I love **designing logos** and **creating digital art** — blending creativity with technology is my happy place. ☕️✨  
+![Matrix Rainbow Code Banner](https://gifdb.com/images/high/matrix-code-art-rainbow-coder-dxsrz36r26xr4wki.webp)
 
 ---
 
