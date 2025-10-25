@@ -1,16 +1,42 @@
-## Hi there 👋
+![Matrix Rainbow Code Banner](https://gifdb.com/images/high/matrix-code-art-rainbow-coder-dxsrz36r26xr4wki.webp)
 
-<!--
-**leeanneeagan/leeanneeagan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Leeanne!
 
-Here are some ideas to get you started:
+I'm a **Software Engineer** who loves building clean, responsive, and user-friendly web applications.  
+I specialize in **Full-Stack JavaScript Development** — working with the **MERN stack (MongoDB, Express, React, Node.js)** — and enjoy combining creativity with functionality in every project I build.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💻 Tech Stack
+**Languages:** JavaScript, Python, Java  
+**Frontend:** React, HTML, CSS  
+**Backend:** Node.js, Express  
+**Database:** MongoDB  
+**Tools:** Git, GitHub, VS Code, AWS  
+
+---
+
+## 🚀 What I Do
+- ⚙️ Build and deploy **full-stack web applications** using modern frameworks  
+- 🎨 Design and develop **responsive UIs** focused on accessibility and usability  
+- 🤝 Collaborate in **Agile teams** with Git/GitHub workflows and peer code reviews  
+- ☁️ Explore **cloud and serverless architectures** for scalable applications  
+
+---
+
+## 🌱 Currently Exploring
+- Next.js & TypeScript  
+- AWS Cloud Development Kit (CDK)  
+- UI/UX principles for better user experience  
+
+---
+
+## 🎨 Fun Fact
+When I’m not coding, I love **designing logos** and **creating digital art** — blending creativity with technology is my happy place. ☕️✨  
+
+---
+
+## 📫 Let’s Connect
+💼 [LinkedIn](#)  
+🌐 [Portfolio](#)  
+📧 [Email Me](mailto:your.email@example.com)
