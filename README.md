@@ -36,6 +36,6 @@ When I’m not coding, I love **designing logos** and **creating digital art** �
 ---
 
 ## 📫 Let’s Connect
-💼 [LinkedIn](#)  
-🌐 [Portfolio](#)  
-📧 [Email Me](mailto:your.email@example.com)
+💼 [LinkedIn](https://www.linkedin.com/in/leeanne-m-eagan/)  
+🌐 [Portfolio](https://leeanneeagan.github.io/)  
+📧 [Email Me](mailto:leeanne.eagan@gmail.com)
