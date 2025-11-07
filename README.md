@@ -1,4 +1,4 @@
-# 👋 Heylo, I'm Leeanne!
+# 👋 Hello, I'm Leeanne!
 
 I'm a **Software Engineer** who loves building clean, responsive, and user-friendly web applications.  
 I specialize in **Full-Stack JavaScript Development** — working with the **MERN stack (MongoDB, Express, React, Node.js)** — and enjoy combining creativity with functionality in every project I build.
