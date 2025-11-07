@@ -30,7 +30,7 @@ I specialize in **Full-Stack JavaScript Development** — working with the **MER
 ---
 
 ## 🎨 Fun Fact
-When I’m not coding, I love **designing logos** and **creating digital art** — blending creativity with technology is my happy place. ☕️✨  
+When I’m not coding, I love **designing logos** and **creating art** — blending creativity with technology is my happy place. ☕️✨  
 ![Matrix Rainbow Code Banner](https://gifdb.com/images/high/matrix-code-art-rainbow-coder-dxsrz36r26xr4wki.webp)
 
 ---
